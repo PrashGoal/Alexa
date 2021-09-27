@@ -10,13 +10,32 @@
 - Tells joke
 - Introduce Developer
 
+## Installation
+- Install SpeechRecognition
+`pip install SpeechRecognition`
+
+- Install pyttsx3
+`pip install pyttsx3`
+
+- Install pywhatkit
+`pip install pywhatkit`
+
+- Install wikipedia
+`pip install wikipedia`
+
+- Install pyjokes
+`pip install pyjokes`
+
+- Install datetime
+`pip install datetime`
+
 ## Usage
 
 > Run the `main.py` 
 
 ## Technology used
 - Python packages
-- Uses `speech_recognition` 
+- Uses `Jarvis AI` 
 
 #### Screenshot
 - The below is the screenshot of the application.
