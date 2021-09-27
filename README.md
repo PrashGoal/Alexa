@@ -37,6 +37,3 @@
 - Python packages
 - Uses `Jarvis AI` 
 
-#### Screenshot
-- The below is the screenshot of the application.
-
